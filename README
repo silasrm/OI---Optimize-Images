@@ -1,0 +1,14 @@
+OI - Optimize Images
+http://github.com/silasrm/OI---Optimize-Images
+-------------------------------------------------------------------------------------
+
+Otimiza arquivos jpeg e png de uma determinada pasta ( primeiro parametro ) 
+e salva os otimizados em uma segunda pasta ( segundo parametro )
+
+uso: ./otim.sh images/ images/new/
+
+breve suporte a arquivos gif.
+
+-------------------------------------------------------------------------------------
+Autor: Silas Ribas Martins
+silasrm@gmail.com | @silasribas | github.com/silasrm
