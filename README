@@ -2,6 +2,8 @@ OI - Optimize Images
 http://github.com/silasrm/OI---Optimize-Images
 -------------------------------------------------------------------------------------
 
+O OI só roda em Linux.
+
 Otimiza arquivos jpeg e png de uma determinada pasta ( primeiro parametro ) 
 e salva os otimizados em uma segunda pasta ( segundo parametro )
 
